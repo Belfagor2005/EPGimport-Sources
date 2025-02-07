@@ -5,9 +5,10 @@
 			<description>Pluto TV All</description>
 			<url><![CDATA[https//i.mjh.nz/PlutoTV/all.xml.gz]]></url>
 		</source>
-		<source type="gen_xmltv" nocheck="1" channels="plutotv.it.xml">
+		<source type="gen_xmltv" nocheck="1" channels="http://i.mjh.nz/PlutoTV/it.xml">
 			<description>Pluto TV IT</description>
 			<url><![CDATA[http://i.mjh.nz/PlutoTV/it.xml.gz]]></url>
+			<url>http://i.mjh.nz/PlutoTV/it.xml.gz</url>
 		</source>
 		<source type="gen_xmltv" nocheck="1" channels="plutotv.ar.xml">
 			<description>Pluto TV AR</description>
