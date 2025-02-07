@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <sources>
 <sourcecat sourcecatname="Pluto TV">
-	<source type="gen_xmltv" nocheck="1" channels="samsungtv.channels.xml">
-		<description>Pluto TV</description>
+	<source type="gen_xmltv" nocheck="1" channels="pluto.channels.xml">
+		<description>Pluto TV All</description>
 		<!-- <url><![CDATA[https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/es.xml.gz]]></url> -->
 		<url><![CDATA[https://i.mjh.nz/PlutoTV/all.xml.gz]]></url>
 	</source>
+
+	<source type="gen_xmltv" nocheck="1" channels="pluto.it.xml">
+		<description>Pluto TV It</description>
+		<!-- <url><![CDATA[https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/es.xml.gz]]></url> -->
+		<url><![CDATA[https://i.mjh.nz/PlutoTV/it.xml.gz]]></url>
+	</source>
+
 </sourcecat>
 
 </sources>

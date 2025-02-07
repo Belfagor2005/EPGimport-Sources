@@ -5,6 +5,10 @@
 			<description>Samsungh TV All Channel</description>
 			<url><![CDATA[https://i.mjh.nz/SamsungTVPlus/all.xml.gz]]></url>
 		</source>
+		<source type="gen_xmltv" nocheck="1" channels="samsungtv.it.xml">
+			<description>Samsungh TV IT Channel</description>
+			<url><![CDATA[https://i.mjh.nz/SamsungTVPlus/it.xml.gz]]></url>
+		</source>
 	</sourcecat>
 </sources>
 
