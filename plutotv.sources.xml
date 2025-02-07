@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sources>
+<sourcecat sourcecatname="Pluto TV">
+	<source type="gen_xmltv" nocheck="1" channels="plutotv.channels.xml">
+		<description>Pluto TV</description>
+		<!-- <url><![CDATA[https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/es.xml.gz]]></url> -->
+		<url><![CDATA[https://i.mjh.nz/PlutoTV/es.xml.gz]]></url>
+	</source>
+</sourcecat>
+</sources>

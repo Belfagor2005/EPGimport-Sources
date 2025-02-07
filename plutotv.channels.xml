@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<channels>
+<!-- PELICULAS -->
+<channel id="5f1ac1f1b66c76000790ef27">4097:0:1:AAAA:A002:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Cine estelar -->
+<channel id="5f1ac2591dd8880007bb7d6d">4097:0:1:AAAA:A061:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Cine accion -->
+<channel id="6267d4d1fb694f0007a6af0e">4097:0:1:AAAA:A003:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Cine horror -->
+<channel id="5f6a38eaa5b68b0007a00e7a">4097:0:1:AAAA:A062:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Cine scifi -->
+<channel id="5f1ac8a87cd38d000745d7cf">4097:0:1:AAAA:A063:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Cine thrillers -->
+<channel id="61373bb45168fe000773eecd">4097:0:1:AAAA:A001:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Cine clasico -->
+<channel id="5f1ac9a2d3611d0007a844bb">4097:0:1:AAAA:A004:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Cine romantico -->
+<channel id="5f1ac947dcd00d0007937c08">4097:0:1:AAAA:A064:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Cine drama -->
+<channel id="5f1ac8099c49f600076579b2">4097:0:1:AAAA:A005:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Cine comedia -->
+<channel id="5f984c1dc54853000797a5e8">4097:0:1:AAAA:A006:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Cine latino -->
+<channel id="6086d3f420fc8500075f8dbf">4097:0:1:AAAA:A007:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Cine runtime -->
+<channel id="60cc807324d60a0007708dc8">4097:0:1:AAAA:A008:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Cine indies -->
+<channel id="61cd78920b90cb0007e28231">4097:0:1:AAAA:A009:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Cine documentales -->
+<channel id="61c49a1b5ec8d40008673251">4097:0:1:AAAA:A010:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Cine cortos -->
+<channel id="62ecdab3d41a9e0007f2611f">4097:0:1:AAAA:A120:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Pelis retro -->
+<!-- MADE IN SPAIN -->
+<channel id="61922be835f3910007fc58f6">4097:0:1:AAAA:A011:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- En el punto de mira -->
+<channel id="622f42b831233300078658cc">4097:0:1:AAAA:A012:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Ciudadanos por el mundo -->
+<channel id="5f1abce155a03d0007718834">4097:0:1:AAAA:A065:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Comedia made in Spain -->
+<channel id="60c343007bcabe0007242aa6">4097:0:1:AAAA:A013:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- El comisario -->
+<channel id="5f1acce7f17797000718f9be">4097:0:1:AAAA:A066:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Ana y los 7 -->
+<channel id="622f447a32669a00071a8986">4097:0:1:AAAA:A014:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- A las once en casa -->
+<channel id="5f28009b150b2500077766b8">4097:0:1:AAAA:A067:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Vaya semanita -->
+<channel id="600ae59c341b1d0007d1c7cb">4097:0:1:AAAA:A068:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Tierra de lobos -->
+<channel id="5f1acd36779de70007a680d1">4097:0:1:AAAA:A069:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Curro Jimenez -->
+<!-- SERIES -->
+<channel id="60d3574e97f10800078455de">4097:0:1:AAAA:A015:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Doctor Who -->
+<channel id="60f58d45696a530007088486">4097:0:1:AAAA:A016:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Matrimonio con hijos -->
+<channel id="6193963c5a960200074ce816">4097:0:1:AAAA:A017:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Constance Meyer jueza en practicas -->
+<channel id="61bb2814ac085a00074309a6">4097:0:1:AAAA:A018:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Unidad de investigacion -->
+<channel id="5f1aca8310a30e00074fab92">4097:0:1:AAAA:A070:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Asesinatos de Midsomer -->
+<channel id="5f1acb4eebe0f0000767b40f">4097:0:1:AAAA:A071:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Las reglas del juego -->
+<channel id="60b4c06717da110007ee1af6">4097:0:1:AAAA:A019:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Telenovelas -->
+<channel id="60dafb9a0df1ba000758d37b">4097:0:1:AAAA:A020:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- BBC drama -->
+<channel id="5f1ac8f49205650007bc15f1">4097:0:1:AAAA:A072:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Series -->
+<channel id="5f1acc3e061597000768d4ea">4097:0:1:AAAA:A021:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Andromeda -->
+<channel id="5f1acc91cc9e1b000711ff21">4097:0:1:AAAA:A073:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Mutante X -->
+<channel id="60c8a24e17da110007eed4fd">4097:0:1:AAAA:A022:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Rakuten viki -->
+<channel id="5f9853138d19af0007104a8d">4097:0:1:AAAA:A074:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Series comedia -->
+<channel id="5f1abe3ffcd659000770d88d">4097:0:1:AAAA:A075:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- La chica invisible -->
+<channel id="60f58f2278490000079bc47b">4097:0:1:AAAA:A023:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- La niñera -->
+<channel id="619b7db4872c650008eb8b6a">4097:0:1:AAAA:A024:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Star Trek -->
+<channel id="628751bb7154a40007168843">4097:0:1:AAAA:A025:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- South Park -->
+<channel id="6245c03922d9d4000760d205">4097:0:1:AAAA:A118:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Melrose Place -->
+<channel id="6245c2a5eec07b0007249fc8">4097:0:1:AAAA:A119:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Sensación de vivir (90210) -->
+<!-- CRIMEN Y MISTERIO -->
+<channel id="5f984f4a09e92d0007d74647">4097:0:1:AAAA:A076:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Archivos forenses -->
+<channel id="602ba1cfb386d30007aecbbe">4097:0:1:AAAA:A026:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Investiga -->
+<channel id="5f1acba0d1f6340007db8843">4097:0:1:AAAA:A077:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Los nuevos detectives -->
+<channel id="5f1acbed25948a0007ffbe65">4097:0:1:AAAA:A078:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Los archivos del FBI -->
+<channel id="612ce5214bb5790007ad3016">4097:0:1:AAAA:A027:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Paranormal -->
+<channel id="60ed5fb9c4716d0007d180c5">4097:0:1:AAAA:A028:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Cazador de homicidas -->
+<!-- ENTRETENIMIENTO -->
+<channel id="60218baa464ef900073168c1">4097:0:1:AAAA:A079:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Empeños a lo bestia -->
+<channel id="60e45687313c5f0007bc8e94">4097:0:1:AAAA:A029:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- El encantador de perros -->
+<channel id="60e4573c9f963e00077ecf25">4097:0:1:AAAA:A030:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Mi extraña obsesion -->
+<channel id="60d356a534f63f000850cdd7">4097:0:1:AAAA:A031:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Top Gear -->
+<channel id="6080345ebb49b90007ce0baf">4097:0:1:AAAA:A032:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Motor -->
+<channel id="61b9edc4a4ca6100070bb407">4097:0:1:AAAA:A033:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Ice Pilots -->
+<channel id="60c343ad476ec00007c2ec1a">4097:0:1:AAAA:A034:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Viajes -->
+<channel id="600ae6a78d801e0007117d21">4097:0:1:AAAA:A080:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Animales -->
+<channel id="60dd6b1da79e4d0007309455">4097:0:1:AAAA:A035:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Love nature -->
+<channel id="61b87bc867b03a0007864e0d">4097:0:1:AAAA:A036:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Reality -->
+<channel id="5f280149cec6be00072ab1fc">4097:0:1:AAAA:A081:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- El conquistador del fin del mundo -->
+<channel id="5f1acdfda84c970007e750b5">4097:0:1:AAAA:A082:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Mundo real -->
+<!-- MTV -->
+<channel id="5f1ab3c7778230000735cf41">4097:0:1:AAAA:A083:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- MTV catfish -->
+<channel id="611b87946b7f420007c22361">4097:0:1:AAAA:A037:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- MTV tattoo a dos -->
+<channel id="6076c74daa05ac0007d0eb07">4097:0:1:AAAA:A038:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- MTV tuning -->
+<channel id="604f81a49ef73300070e554f">4097:0:1:AAAA:A039:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- MTV teen mom -->
+<channel id="5f98537a5a4341000733aefe">4097:0:1:AAAA:A084:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- MTV embarazada a los 16 -->
+<channel id="6130d8dc943001000708548d">4097:0:1:AAAA:A040:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- MTV realities -->
+<channel id="5f1aae8c65727d0007d15a17">4097:0:1:AAAA:A041:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- MTV prank -->
+<channel id="5f1aadf373bed3000794d1d7">4097:0:1:AAAA:A085:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- MTV originals -->
+<channel id="5f1aaefb96f755000733c11a">4097:0:1:AAAA:A042:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- MTV brave -->
+<channel id="600169ec77e6f70008fa9cf0">4097:0:1:AAAA:A086:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- MTV dating -->
+<channel id="5f1ab9c6d8f1300007f54e30">4097:0:1:AAAA:A087:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- MTV cribs -->
+<channel id="5f1ab9c6d8f1300007f54e30">4097:0:1:AAAA:A117:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- MTV Geordies -->
+<!-- NOTICIAS -->
+<channel id="60d3583ef310610007fb02b1">4097:0:1:AAAA:A043:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Euronews -->
+<channel id="6231ede1be5b460007f91bc1">4097:0:1:AAAA:A044:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- CBS news -->
+<channel id="627d1b936d4ded0007d7642f">4097:0:1:AAAA:A045:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Chilevision noticias -->
+<channel id="627d1b12c8540700073b3f39">4097:0:1:AAAA:A046:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Telefe noticias -->
+<!-- ESTILO DE VIDA -->
+<channel id="5f1acdaa8ba90f0007d5e760">4097:0:1:AAAA:A088:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Cocina -->
+<channel id="60c882460ea4a200076a2a37">4097:0:1:AAAA:A047:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Fashion TV -->
+<!-- MUSICA -->
+<channel id="6076cd1df8576d0007c82193">4097:0:1:AAAA:A048:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- VH1 classics -->
+<channel id="60a26a056d55b30007918d5a">4097:0:1:AAAA:A049:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- MTV music made in Spain -->
+<channel id="600ae79fa46e17000794e84c">4097:0:1:AAAA:A050:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- MTV love music -->
+<channel id="6130d6f3f3f7bb0007dbd092">4097:0:1:AAAA:A089:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- MTV En vivo -->
+<channel id="60f16986acb81b0007c384ac">4097:0:1:AAAA:A090:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Qello concerts -->
+<channel id="60db37b8b919720007c07fa4">4097:0:1:AAAA:A091:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Qwest jazz & beyond-->
+<channel id="600ad4ad6537680007be2ea6">4097:0:1:AAAA:A051:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Clubbing TV -->
+<channel id="60c8b3ddaaf9d4000780066f">4097:0:1:AAAA:A092:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- K-Pop -->
+<channel id="61ea759737679900078ff559">4097:0:1:AAAA:A093:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- MTV party music -->
+<channel id="6087c6c5db549e0007eead39">4097:0:1:AAAA:A052:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- MTV summer hits -->
+<!-- ANIMACION -->
+<channel id="61373c865ed5810007173fbc">4097:0:1:AAAA:A094:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Avatar -->
+<channel id="61373f1a12dd9f00077dcd6f">4097:0:1:AAAA:A053:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Las Tortugas Ninja -->
+<channel id="6054acc871ec430007f54c7d">4097:0:1:AAAA:A095:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Anime clasico -->
+<channel id="608035b8d8705f0007260287">4097:0:1:AAAA:A096:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Anime -->
+<!-- INFANTIL -->
+<channel id="6181404ef48321000797bc41">4097:0:1:AAAA:A097:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- iCarly -->
+<channel id="5f1aca0b4e448e00075e7c5e">4097:0:1:AAAA:A098:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Bob Esponja -->
+<channel id="60016a60a8e3520008e0d331">4097:0:1:AAAA:A099:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Teen stars -->
+<channel id="610c09219fc0430007a3fce6">4097:0:1:AAAA:A100:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Rugrats -->
+<channel id="624466b26ab25e0007dd7cfb">4097:0:1:AAAA:A101:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Dora la exploradora -->
+<channel id="609e7e423e9173000706a681">4097:0:1:AAAA:A102:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Toons clasico -->
+<channel id="5f1aabee6f4a2c00076a322c">4097:0:1:AAAA:A103:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Animakids -->
+<channel id="5f1aab1d29b39600073e243f">4097:0:1:AAAA:A104:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Kids -->
+<channel id="5f1aa7aab66c76000790ee7e">4097:0:1:AAAA:A105:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Big time rush -->
+<channel id="609501978c069d00074e0dd2">4097:0:1:AAAA:A054:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Planeta junior TV -->
+<channel id="5f1aa82c150b2500077733d7">4097:0:1:AAAA:A106:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Pistas de Blue -->
+<channel id="5f1aa89d42a0500007363ea3">4097:0:1:AAAA:A107:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Go Diego go! -->
+<channel id="5f1aa9bcd8160700076d45d1">4097:0:1:AAAA:A055:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Junior -->
+<channel id="6054ab20a365c70007e4fd44">4097:0:1:AAAA:A056:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Garfield -->
+<channel id="6228b6a38717420007375848">4097:0:1:AAAA:A108:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Nickelodeon Ukraine -->
+<channel id="62568a94ed1f380007b0211f">4097:0:1:AAAA:A109:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Winx club -->
+<channel id="629a066860ef810008267b70">4097:0:1:AAAA:A057:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Detective Conan -->
+<!-- LOL -->
+<channel id="60a286daf888610007669801">4097:0:1:AAAA:A058:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Just for laughs -->
+<channel id="604f8125c6669b00077f7699">4097:0:1:AAAA:A059:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Wipeout -->
+<channel id="5f1abf5fafb5ee0007d4d0ca">4097:0:1:AAAA:A110:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- FailArmy -->
+<channel id="5f1abf097eb06300079b30f7">4097:0:1:AAAA:A111:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- The pet collective -->
+<channel id="5f1ac1780e94100007f94b3f">4097:0:1:AAAA:A112:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- People are awesome -->
+<!-- DEPORTES -->
+<channel id="5f1ac8588734f8000823b7de">4097:0:1:AAAA:A113:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Action sports -->
+<channel id="5f1ac118dd7e6000077e31af">4097:0:1:AAAA:A114:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- IGN -->
+<channel id="60f1673d0e4370000784dc61">4097:0:1:AAAA:A115:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Fuel TV -->
+<channel id="6140a074a99e79000738162a">4097:0:1:AAAA:A116:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Fitness -->
+<channel id="6080381ab7c9ea00074ec64c">4097:0:1:AAAA:A060:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- World Poker Tour -->
+</channels>
