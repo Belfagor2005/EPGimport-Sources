@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sources>
+	<sourcecat sourcecatname="Samsung Tv">
+		<source type="gen_xmltv" nocheck="1" channels="samsungtv.channels.xml">
+			<description>Samsungh TV All Channel</description>
+			<url><![CDATA[https://i.mjh.nz/SamsungTVPlus/all.xml.gz]]></url>
+		</source>
+	</sourcecat>
+</sources>
+
+
+

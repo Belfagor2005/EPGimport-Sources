@@ -39,12 +39,6 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://epg-guide.com/epg-guide.channels.xz</url>
 		</source>
 	</sourcecat>
-	<sourcecat sourcecatname="Test - Enigma Samsung Int">
-		<source type="gen_xmltv" nocheck="1" channels="rytec.all.xml">
-			<description>Enigma Samsungh All Channel</description>
-			<url>https://i.mjh.nz/SamsungTVPlus/all.xml.gz</url>
-		</source>
-	</sourcecat>
 	<sourcecat sourcecatname="Rytec General XMLTV">
 		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
 			<description>News Channels (xz)</description>
