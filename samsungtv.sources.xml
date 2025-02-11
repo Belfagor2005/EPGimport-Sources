@@ -1,54 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <sources>
 	<sourcecat sourcecatname="Samsung Tv">
-		<source type="gen_xmltv" nocheck="1" channels="/etc/epgimport/samsungtv/samsungtv.channels.xml">
-			<description>Samsungh TV All Channel</description>
-			<url><![CDATA[http://i.mjh.nz/SamsungTVPlus/all.xml.gz]]></url>
-		</source>
-		<source type="gen_xmltv" nocheck="1" channels="http://i.mjh.nz/SamsungTVPlus/it.xml">
+		<source type="gen_xmltv" channels="/etc/epgimport/samsungtv/samsungtv.it.xml">
 			<description>Samsungh TV IT Channel</description>
-			<url><![CDATA[http://i.mjh.nz/SamsungTVPlus/it.xml.gz]]></url>
-			<url>http://i.mjh.nz/SamsungTVPlus/it.xml.gz</url>
+			<url><![CDATA[https://i.mjh.nz/SamsungTVPlus/it.xml.gz]]></url>
+			<url>https://i.mjh.nz/SamsungTVPlus/it.xml.gz</url>
 		</source>
-		<source type="gen_xmltv" nocheck="1" channels="/etc/epgimport/samsungtv/samsungtv.at.xml">
+		<source type="gen_xmltv" channels="/etc/epgimport/samsungtv/samsungtv.at.xml">
 			<description>Samsungh TV AT Channel</description>
-			<url><![CDATA[http://i.mjh.nz/SamsungTVPlus/at.xml.gz]]></url>
+			<url><![CDATA[https://i.mjh.nz/SamsungTVPlus/at.xml.gz]]></url>
 		</source>
-		<source type="gen_xmltv" nocheck="1" channels="/etc/epgimport/samsungtv/samsungtv.ca.xml">
+		<source type="gen_xmltv" channels="/etc/epgimport/samsungtv/samsungtv.ca.xml">
 			<description>Samsungh TV CA Channel</description>
-			<url><![CDATA[http://i.mjh.nz/SamsungTVPlus/ca.xml.gz]]></url>
+			<url><![CDATA[https://i.mjh.nz/SamsungTVPlus/ca.xml.gz]]></url>
 		</source>
-		<source type="gen_xmltv" nocheck="1" channels="/etc/epgimport/samsungtv/samsungtv.ch.xml">
+		<source type="gen_xmltv" channels="/etc/epgimport/samsungtv/samsungtv.ch.xml">
 			<description>Samsungh TV CH Channel</description>
-			<url><![CDATA[http://i.mjh.nz/SamsungTVPlus/ch.xml.gz]]></url>
+			<url><![CDATA[https://i.mjh.nz/SamsungTVPlus/ch.xml.gz]]></url>
 		</source>
-		<source type="gen_xmltv" nocheck="1" channels="/etc/epgimport/samsungtv/samsungtv.de.xml">
+		<source type="gen_xmltv" channels="/etc/epgimport/samsungtv/samsungtv.de.xml">
 			<description>Samsungh TV DE Channel</description>
-			<url><![CDATA[http://i.mjh.nz/SamsungTVPlus/de.xml.gz]]></url>
+			<url><![CDATA[https://i.mjh.nz/SamsungTVPlus/de.xml.gz]]></url>
 		</source>
-		<source type="gen_xmltv" nocheck="1" channels="/etc/epgimport/samsungtv/samsungtv.es.xml">
+		<source type="gen_xmltv" channels="/etc/epgimport/samsungtv/samsungtv.es.xml">
 			<description>Samsungh TV ES Channel</description>
-			<url><![CDATA[http://i.mjh.nz/SamsungTVPlus/es.xml.gz]]></url>
+			<url><![CDATA[https://i.mjh.nz/SamsungTVPlus/es.xml.gz]]></url>
 		</source>
-		<source type="gen_xmltv" nocheck="1" channels="/etc/epgimport/samsungtv/samsungtv.fr.xml">
+		<source type="gen_xmltv" channels="/etc/epgimport/samsungtv/samsungtv.fr.xml">
 			<description>Samsungh TV FR Channel</description>
-			<url><![CDATA[http://i.mjh.nz/SamsungTVPlus/fr.xml.gz]]></url>
+			<url><![CDATA[https://i.mjh.nz/SamsungTVPlus/fr.xml.gz]]></url>
 		</source>
-		<source type="gen_xmltv" nocheck="1" channels="/etc/epgimport/samsungtv/samsungtv.gb.xml">
+		<source type="gen_xmltv" channels="/etc/epgimport/samsungtv/samsungtv.gb.xml">
 			<description>Samsungh TV GB Channel</description>
-			<url><![CDATA[http://i.mjh.nz/SamsungTVPlus/gb.xml.gz]]></url>
+			<url><![CDATA[https://i.mjh.nz/SamsungTVPlus/gb.xml.gz]]></url>
 		</source>
-		<source type="gen_xmltv" nocheck="1" channels="/etc/epgimport/samsungtv/samsungtv.in.xml">
+		<source type="gen_xmltv" channels="/etc/epgimport/samsungtv/samsungtv.in.xml">
 			<description>Samsungh TV IN Channel</description>
-			<url><![CDATA[http://i.mjh.nz/SamsungTVPlus/in.xml.gz]]></url>
+			<url><![CDATA[https://i.mjh.nz/SamsungTVPlus/in.xml.gz]]></url>
 		</source>
-		<source type="gen_xmltv" nocheck="1" channels="/etc/epgimport/samsungtv/samsungtv.kr.xml">
+		<source type="gen_xmltv" channels="/etc/epgimport/samsungtv/samsungtv.kr.xml">
 			<description>Samsungh TV KR Channel</description>
-			<url><![CDATA[http://i.mjh.nz/SamsungTVPlus/kr.xml.gz]]></url>
+			<url><![CDATA[https://i.mjh.nz/SamsungTVPlus/kr.xml.gz]]></url>
 		</source>
-		<source type="gen_xmltv" nocheck="1" channels="/etc/epgimport/samsungtv/samsungtv.us.xml">
+		<source type="gen_xmltv" channels="/etc/epgimport/samsungtv/samsungtv.us.xml">
 			<description>Samsungh TV US Channel</description>
-			<url><![CDATA[http://i.mjh.nz/SamsungTVPlus/us.xml.gz]]></url>
+			<url><![CDATA[https://i.mjh.nz/SamsungTVPlus/us.xml.gz]]></url>
 		</source>
 	</sourcecat>
 </sources>
