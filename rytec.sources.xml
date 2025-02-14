@@ -19,26 +19,18 @@ The description must be unique for each source, and is displayed on the UI.
 	<mappings>
 		<channel name="rytec.channels.xml.xz">
 			<url>http://www.xmltvepg.nl/rytec.channels.xml.xz</url>
+			<url>http://rytecepg.dyndns.tv/epg_data/rytec.channels.xml.xz</url>
 			<url>http://rytecepg.dyndns.tv/rytec.channels.xml.xz</url>
 			<url>http://epg.vuplus-community.net/rytec.channels.xml.xz</url>
 		</channel>
 		<channel name="azman.channels.xml.xz">
 			<url>http://www.topolowa4.pl/azman.channels.xml.xz</url>
 			<url>http://www.xmltvepg.nl/azman.channels.xml.xz</url>
+			<url>http://rytecepg.dyndns.tv/epg_data/azman.channels.xml.xz</url>
 			<url>http://rytecepg.dyndns.tv/azman.channels.xml.xz</url>
 			<url>http://epg.vuplus-community.net/azman.channels.xml.xz</url>
 		</channel>
 	</mappings>
-	<sourcecat sourcecatname="Enigma DTT+SAT Italia">
-		<source type="gen_xmltv" nocheck="1" channels="http://epg-guide.com/epg-guide.channels.xz">
-			<description>Enigma DTT-SAT Italia</description>
-			<url>http://epg-guide.com/dttsat.xz</url>
-		</source>
-		<source type="gen_xmltv" nocheck="1" channels="http://epg-guide.com/epg-guide.channels.xz">
-			<description>Enigma DTT-SAT PLUS Italia</description>
-			<url>http://epg-guide.com/epg-guide.channels.xz</url>
-		</source>
-	</sourcecat>
 	<sourcecat sourcecatname="Rytec General XMLTV">
 		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
 			<description>News Channels (xz)</description>
@@ -262,6 +254,15 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://rytecepg.dyndns.tv/rytecIT_Basic.xz</url>
 			<url>http://epg.vuplus-community.net/rytecIT_Basic.xz</url>
 		</source>
+		<source type="gen_xmltv" nocheck="1" channels="http://epg-guide.com/epg-guide.channels.xz">
+			<description>DTT-SAT Italia</description>
+			<url>http://epg-guide.com/dttsat.xz</url>
+		</source>
+		<!-- <source type="gen_xmltv" channels="rytec.channels.xml.xz"> -->
+		<source type="gen_xmltv" nocheck="1" channels="http://epg-guide.com/epg-guide.channels.xz">
+			<description>DTT-SAT PLUS Italia</description>
+			<url>http://epg-guide.com/epg-guide.channels.xz</url>
+		</source>
 		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
 			<description>Italia - Sky (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecIT_Sky.xz</url>
@@ -312,6 +313,18 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://www.xmltvepg.nl/rytecPT.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecPT.xz</url>
 			<url>http://epg.vuplus-community.net/rytecPT.xz</url>
+		</source>
+	</sourcecat>
+	<sourcecat sourcecatname="Rytec Magyarorszag XMLTV">
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>Magyarorszag - Basic (xz)</description>
+			<url>http://www.xmltvepg.nl/rytecHU_Basic.xz</url>
+			<url>http://epgspot.com/rytec_epg/rytecHU_Basic.xz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>Magyarorszag - Sport/Film (xz)</description>
+			<url>http://www.xmltvepg.nl/rytecHU_SportMovies.xz</url>
+			<url>http://epgspot.com/rytec_epg/rytecHU_SportMovies.xz</url>
 		</source>
 	</sourcecat>
 	<sourcecat sourcecatname="Rytec Norge XMLTV">
