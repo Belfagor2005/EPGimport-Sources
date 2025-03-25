@@ -396,7 +396,7 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>https://github.com/jbleyel/epgimportgz/raw/refs/heads/gh-pages/locomotiontv.xml.gz</url>
 		</source>
 	</sourcecat>
-	<sourcecat sourcecatname="epgimportgz General XMLTV">
+	<sourcecat sourcecatname="RAKUTEN XMLTV">
 		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
 			<description>RAKUTEN_DE1 (gz)</description>
 			<url>https://github.com/jbleyel/epgimportgz/raw/refs/heads/gh-pages/epg_ripper_RAKUTEN_DE1.xml.gz</url>
