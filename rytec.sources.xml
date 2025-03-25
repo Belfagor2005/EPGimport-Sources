@@ -30,6 +30,9 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://rytecepg.dyndns.tv/azman.channels.xml.xz</url>
 			<url>http://epg.vuplus-community.net/azman.channels.xml.xz</url>
 		</channel>
+		<channel name="osn.channels.xml.xz" nocheck="1">
+			<url>http://raw.githubusercontent.com/MOHAMED19OS/DZ_EPG/main/osn.channels.xml.xz</url>
+		</channel>
 	</mappings>
 	<sourcecat sourcecatname="Rytec General XMLTV">
 		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
@@ -510,11 +513,7 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://epg.vuplus-community.net/rytecUK_SportMovies.xz</url>
 		</source>
 	</sourcecat>
-	<mappings>
-		<channel name="osn.channels.xml.xz" nocheck="1">
-			<url>http://raw.githubusercontent.com/MOHAMED19OS/DZ_EPG/main/osn.channels.xml.xz</url>
-		</channel>
-	</mappings>
+
 	<sourcecat sourcecatname="Dream EPG">
 		<source type="gen_xmltv" channels="osn.channels.xml.xz" nocheck="1">
 			<description>OSN Channels English (xz)</description>
