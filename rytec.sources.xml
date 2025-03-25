@@ -24,17 +24,6 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://rytecepg.wanwizard.eu/rytec.channels.xml.xz</url>
 			<url>http://epg.vuplus-community.net/rytec.channels.xml.xz</url>
 		</channel>
-		<channel name="azman.channels.xml.xz">
-			<url>http://www.topolowa4.pl/azman.channels.xml.xz</url>
-			<url>http://www.xmltvepg.nl/azman.channels.xml.xz</url>
-			<url>http://rytecepg.dyndns.tv/epg_data/azman.channels.xml.xz</url>
-			<url>http://rytecepg.dyndns.tv/azman.channels.xml.xz</url>
-			<url>http://rytecepg.wanwizard.eu/azman.channels.xml.xz</url>
-			<url>http://epg.vuplus-community.net/azman.channels.xml.xz</url>
-		</channel>
-		<channel name="osn.channels.xml.xz" nocheck="1">
-			<url>http://raw.githubusercontent.com/MOHAMED19OS/DZ_EPG/main/osn.channels.xml.xz</url>
-		</channel>
 	</mappings>
 	<sourcecat sourcecatname="Rytec General XMLTV">
 		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
