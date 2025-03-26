@@ -34,7 +34,7 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://raw.githubusercontent.com/MOHAMED19OS/DZ_EPG/main/osn.channels.xml.xz</url>
 		</channel>
 	</mappings>
-	<sourcecat sourcecatname="epgimportgz General XMLTV">
+	<sourcecat sourcecatname="EpgShare All XMLTV">
 		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
 			<description>Al Jazeera (gz)</description>
 			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_AL1.xml.gz</url>
@@ -486,7 +486,7 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>https://epgshare01.online/epgshare01/locomotiontv.xml.gz</url>
 		</source>
 	</sourcecat>
-	<sourcecat sourcecatname="RAKUTEN XMLTV">
+	<sourcecat sourcecatname="EpgShare RAKUTEN XMLTV">
 		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
 			<description>RAKUTEN_DE1 (gz)</description>
 			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_RAKUTEN_DE1.xml.gz</url>
