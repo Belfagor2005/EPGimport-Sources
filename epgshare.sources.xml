@@ -81,8 +81,8 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz</url>
 		</source>
 		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
-			<description>CA1 (gz)</description>
-			<url>https://github.com/jbleyel/epgimportgz/raw/refs/heads/epg_ripper_CA1.xml.gz</url>
+			https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_CA1.xml.gz</url>
 			<url>https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz</url>
 		</source>
 		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
