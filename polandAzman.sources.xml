@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<sources>
 
 <!--
 Version: 2025-04-07
@@ -19,7 +18,7 @@ Each source may use a different channels definition, or multiple sources may use
 the same, whatever is convenient.
 The description must be unique for each source, and is displayed on the UI.
 -->
-
+<sources>
 	<mappings>
 		<channel name="azman.channels.xml.xz">
 			<url>http://www.topolowa4.pl/azman.channels.xml.xz</url>
